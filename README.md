@@ -2,6 +2,48 @@
 
 Clovesis Destinations is a visually stunning, high-performance tourism website frontend built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**. It features a modern premium blue aesthetic, smooth animations, and a fully responsive design tailored for a professional travel agency experience.
 
+# Clovesis Travel Website
+
+A modern, responsive travel website for Clovesis Labs showcasing destinations, tours, and contact information.
+
+## Screenshots
+
+### Home Page
+<p>
+  <img src="screenshots/home2.png" width="32%">
+  <img src="screenshots/home3.png" width="32%">
+  <img src="screenshots/home4.png" width="32%">
+</p>
+<p>
+  <img src="screenshots/home5.png" width="32%">
+  <img src="screenshots/home6.png" width="32%">
+</p>
+
+### Destinations Page
+<p>
+  <img src="screenshots/destinations1.png" width="48%">
+  <img src="screenshots/destinations2.png" width="48%">
+</p>
+
+### Packages Page
+<p>
+  <img src="screenshots/Packages1.png" width="48%">
+  <img src="screenshots/Packages2.png" width="48%">
+</p>
+<p>
+  <img src="screenshots/viewpkg1.png" width="48%">
+  <img src="screenshots/viewpkg2.png" width="48%">
+</p>
+
+### Contact Page
+<p>
+  <img src="screenshots/contact1.png" width="32%">
+  <img src="screenshots/contact2.png" width="32%">
+  <img src="screenshots/contact3.png" width="32%">
+</p>
+
+
+
 ## ✨ Features
 
 - **Premium Blue Aesthetic**: A custom-designed light blue theme with deep ocean blue accents.

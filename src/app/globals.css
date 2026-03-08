@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #f0f9ff; /* Soft Light Blue / Sky 50 */
+    --foreground: #082f49; /* Deep Blue / Sky 950 for text */
+    --card-bg: #ffffff; /* Clean white cards */
+    --card-foreground: #0c4a6e; /* Sky 900 for card text */
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-[var(--background)] text-[var(--foreground)] antialiased transition-colors duration-300;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

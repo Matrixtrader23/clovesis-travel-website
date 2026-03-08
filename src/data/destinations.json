@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Bali, Indonesia",
+    "image": "/images/destinations/Bali, Indonesia.jpg",
+    "description": "Tropical paradise with beautiful beaches, temples, and rich culture.",
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "name": "Paris, France",
+    "image": "/images/destinations/Paris, France.jpg",
+    "description": "The city of light, famous for the Eiffel Tower, art, and romance.",
+    "rating": 4.9
+  },
+  {
+    "id": "3",
+    "name": "Kyoto, Japan",
+    "image": "/images/destinations/Kyoto, Japan.jpg",
+    "description": "Experience traditional Japan with stunning temples and gardens.",
+    "rating": 4.9
+  },
+  {
+    "id": "4",
+    "name": "Santorini, Greece",
+    "image": "/images/destinations/Santorini, Greece.jpg",
+    "description": "Iconic white buildings and spectacular Mediterranean sunsets.",
+    "rating": 4.7
+  },
+  {
+    "id": "5",
+    "name": "Machu Picchu, Peru",
+    "image": "/images/destinations/Machu Picchu, Peru.jpg",
+    "description": "Ancient Incan city set high in the Andes Mountains.",
+    "rating": 4.9
+  },
+  {
+    "id": "6",
+    "name": "Maldives",
+    "image": "/images/destinations/Maldives.jpg",
+    "description": "Luxurious overwater bungalows and crystal-clear turquoise waters.",
+    "rating": 4.8
+  }
+]

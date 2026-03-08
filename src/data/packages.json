@@ -1,0 +1,70 @@
+[
+  {
+    "id": "pkg-1",
+    "name": "Bali Explorer",
+    "image": "/images/packages/Bali Explorer.jpg",
+    "duration": "7 Days",
+    "price": 424000,
+    "description": "Discover the exotic beauty of Bali with our guided tour covering temples, beaches, and rich culture.",
+    "highlights": [
+      "Ubud Monkey Forest",
+      "Tanah Lot Temple Sunset",
+      "Tegallalang Rice Terraces",
+      "Snorkeling in Nusa Penida"
+    ],
+    "images": [
+      "/images/packages/Bali Explorer.jpg"
+    ]
+  },
+  {
+    "id": "pkg-2",
+    "name": "Paris Romantic Getaway",
+    "image": "/images/packages/Paris Romantic Getaway.jpg",
+    "duration": "5 Days",
+    "price": 800000,
+    "description": "Experience the ultimate romantic trip to Paris. See the Eiffel Tower, Louvre, and enjoy a Seine river cruise.",
+    "highlights": [
+      "Eiffel Tower VIP Access",
+      "Louvre Museum Guided Tour",
+      "Seine River Dinner Cruise",
+      "Montmartre Walking Tour"
+    ],
+    "images": [
+      "/images/packages/Paris Romantic Getaway.jpg"
+    ]
+  },
+  {
+    "id": "pkg-3",
+    "name": "Japan Cultural Trek",
+    "image": "/images/packages/Japan Cultural Trek.jpg",
+    "duration": "10 Days",
+    "price": 782500,
+    "description": "Immerse yourself in traditional Japanese culture through Kyoto, Tokyo, and majestic Mount Fuji.",
+    "highlights": [
+      "Tokyo City Tour",
+      "Mount Fuji Excursion",
+      "Kyoto Temples & Gardens",
+      "Bullet Train Experience"
+    ],
+    "images": [
+      "/images/packages/Japan Cultural Trek.jpg"
+    ]
+  },
+  {
+    "id": "pkg-4",
+    "name": "Greek Islands Cruise",
+    "image": "/images/packages/Greek Islands Cruise.jpg",
+    "duration": "8 Days",
+    "price": 660000,
+    "description": "Sail the Mediterranean sea and explore beautiful Greek islands including Santorini and Mykonos.",
+    "highlights": [
+      "Athens Acropolis Tour",
+      "Santorini Sunset Cruise",
+      "Mykonos Beach Hopping",
+      "Traditional Greek Dining"
+    ],
+    "images": [
+      "/images/packages/Greek Islands Cruise.jpg"
+    ]
+  }
+]

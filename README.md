@@ -69,4 +69,4 @@ Clovesis Destinations is a visually stunning, high-performance tourism website f
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-Developed with ❤️ by Clovesis Team.
+Developed with ❤️ by Mohamad Sukri.

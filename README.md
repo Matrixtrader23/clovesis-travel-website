@@ -30,6 +30,8 @@ A modern, responsive travel website for Clovesis Labs showcasing destinations, t
   <img src="screenshots/Packages1.png" width="48%">
   <img src="screenshots/Packages2.png" width="48%">
 </p>
+
+### ViewPackages Page
 <p>
   <img src="screenshots/viewpkg1.png" width="48%">
   <img src="screenshots/viewpkg2.png" width="48%">
